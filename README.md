@@ -1,9 +1,9 @@
-<!-- HEADER BANNER -->
+<!-- ANIMATED HEADER BANNER WITH NAME -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=200&section=header&text=CHANDNI%20HABLANI&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=42" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Hello,%20Chandni%20Hablani!&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
 </p>
 
-<!-- TYPING ANIMATION SUB-HEADER -->
+<!-- TYPING SUB-HEADER -->
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Computer+Science+Graduation+2027;Data+Analytics+%26+Machine+Learning;Python+%7C+SQL+%7C+C%2B%2B+%7C+Data+Analysis" alt="Typing Subtitle" />
@@ -29,7 +29,7 @@
 
 <hr />
 
-### ABOUT
+### ABOUT ME
 
 ```text
 DEGREE       : B.S. Computer Science (Final Year)

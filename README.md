@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION SUB-HEADER -->
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Computer+Science+Graduation+2027;Data+Analytics+%26+Machine+Learning;Developer+of+AgriSense+Smart+Farming;Python+%7C+SQL+%7C+Java+%7C+C%2B%2B" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Computer+Science+Graduation+2027;Data+Analytics+%26+Machine+Learning;Python+%7C+SQL+%7C+C%2B%2B+%7C+Data+Analysis" alt="Typing Subtitle" />
   </a>
 </h3>
 
@@ -33,6 +33,5 @@
 
 ```text
 DEGREE       : B.S. Computer Science (Final Year)
-FOCUS        : Artificial Intelligence, Data Analytics, Smart Systems
-MAIN PROJECT : AgriSense — AI-Powered Smart Farming System
-PASSION      : Scalable Code, Data Pipelines & Intelligent Workflows
+FOCUS        : Data Analytics, Machine Learning & Intelligent Systems
+PASSION      : Data Visualization, Predictive Modeling & Efficient Workflows

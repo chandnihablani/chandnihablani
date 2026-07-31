@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER BANNER WITH NAME -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Hello,%20Chandni%20Hablani!&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Hello,%20Chandni%20Hablani!&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
 </p>
 
 <!-- TYPING SUB-HEADER -->
